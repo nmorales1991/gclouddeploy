@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
 env:
-  BUCKET: nicolasmorales.codes
+  BUCKET: www.nicolasmorales.codes
 jobs:
   build:
     runs-on: ubuntu-latest
